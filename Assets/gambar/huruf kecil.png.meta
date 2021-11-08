@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: ee68b4d226fdb1842bfd6ab2f8bbdb26
+timeCreated: 1635311919
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: huruf kecil_0
+    21300002: huruf kecil_1
+    21300004: huruf kecil_2
+    21300006: huruf kecil_3
+    21300008: huruf kecil_4
+    21300010: huruf kecil_5
+    21300012: huruf kecil_6
+    21300014: huruf kecil_7
+    21300016: huruf kecil_8
+    21300018: huruf kecil_9
+    21300020: huruf kecil_10
+    21300022: huruf kecil_11
+    21300024: huruf kecil_12
+    21300026: huruf kecil_13
+    21300028: huruf kecil_14
+    21300030: huruf kecil_15
+    21300032: huruf kecil_16
+    21300034: huruf kecil_17
+    21300036: huruf kecil_18
+    21300038: huruf kecil_19
+    21300040: huruf kecil_20
+    21300042: huruf kecil_21
+    21300044: huruf kecil_22
+    21300046: huruf kecil_23
+    21300048: huruf kecil_24
+    21300050: huruf kecil_25
+    21300052: huruf kecil_26
+    21300054: huruf kecil_27
+    21300056: huruf kecil_28
+    21300058: huruf kecil_29
+    21300060: huruf kecil_30
+    21300062: huruf kecil_31
+    21300064: huruf kecil_32
+    21300066: huruf kecil_33
+    21300068: huruf kecil_34
+    21300070: huruf kecil_35
+    21300072: huruf kecil_36
+    21300074: huruf kecil_37
+    21300076: huruf kecil_38
+    21300078: huruf kecil_39
+    21300080: huruf kecil_40
+    21300082: huruf kecil_41
+    21300084: huruf kecil_42
+    21300086: huruf kecil_43
+    21300088: huruf kecil_44
+    21300090: huruf kecil_45
+    21300092: huruf kecil_46
+    21300094: huruf kecil_47
+    21300096: huruf kecil_48
+    21300098: huruf kecil_49
+    21300100: huruf kecil_50
+    21300102: huruf kecil_51
+    21300104: huruf kecil_52
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: huruf kecil_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1308
+        width: 116
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1021
+        width: 290
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_2
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1308
+        width: 163
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1017
+        width: 296
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1310
+        width: 156
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_5
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1017
+        width: 279
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_6
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1310
+        width: 163
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_7
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1017
+        width: 296
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_8
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1310
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_9
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1017
+        width: 288
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_10
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1310
+        width: 156
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_11
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1010
+        width: 281
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_12
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1303
+        width: 156
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_13
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 965
+        width: 288
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_14
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1310
+        width: 160
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_15
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 1017
+        width: 295
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_16
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 1310
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_17
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 1017
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_18
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 1303
+        width: 147
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_19
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 961
+        width: 247
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_20
+      rect:
+        serializedVersion: 2
+        x: 4100
+        y: 1274
+        width: 329
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_21
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 1310
+        width: 158
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_22
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 1017
+        width: 291
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_23
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 1310
+        width: 137
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_24
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 1017
+        width: 216
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 826
+        width: 176
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 341
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_27
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 826
+        width: 158
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 534
+        width: 284
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_29
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 826
+        width: 112
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_30
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 534
+        width: 282
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_31
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 821
+        width: 158
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_32
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 479
+        width: 287
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_33
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 821
+        width: 135
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_34
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 483
+        width: 279
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_35
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 826
+        width: 153
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_36
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 534
+        width: 277
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_37
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 826
+        width: 154
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_38
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 534
+        width: 274
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_39
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 814
+        width: 297
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_40
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 534
+        width: 277
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_41
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 826
+        width: 113
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_42
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 534
+        width: 281
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_43
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 826
+        width: 154
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_44
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 534
+        width: 282
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_45
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 826
+        width: 170
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_46
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 534
+        width: 325
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_47
+      rect:
+        serializedVersion: 2
+        x: 4540
+        y: 826
+        width: 163
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_48
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 534
+        width: 299
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_49
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 339
+        width: 158
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_50
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 0
+        width: 293
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_51
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 344
+        width: 195
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: huruf kecil_52
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 52
+        width: 288
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
